@@ -1,4 +1,3 @@
-package basicfromscratch;
 
 public class Hello {
 
